@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "license": "Artistic-2.0",
+  "engines": {
+    "npm": "10.1.0",
+    "node": "^18.17.0 || >=20.5.0"
+  }
+}
